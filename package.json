@@ -34,7 +34,7 @@
         "url": "https://github.com/csa402/node-merged-pool.git"
     },
     "dependencies": {
-        "unomp-multi-hashing": "git://github.com/csa402/node-multi-hashing.git",
+        "node-multi-hashing": "git://github.com/csa402/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
